@@ -23,10 +23,10 @@ export default function Herosection() {
           <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
             <FaTwitter />
           </a>
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+          <a href="https://www.linkedin.com/in/safi-ullah-312636346?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
             <FaLinkedinIn />
           </a>
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+          <a href="https://github.com/Safiullah-550" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
             <FaGithub />
           </a>
         </div>

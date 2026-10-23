@@ -14,23 +14,20 @@ import Footer from './Components/Landingpages/Footer/Footer';
 export default function App() {
   return (
     <div>
-
-      	<BrowserRouter>
-			<Routes>
-				<Route path="/" element={<Home />} />
-				<Route path="/Navbar" element={<Navbar />} />
-				<Route path="/Herosection" element={<Herosection />} />
-				<Route path="/About" element={<About />} />
-				<Route path="/Skills" element={<Skills />} />
-				<Route path="/Projects" element={<Projects />} />
-				<Route path="/Testimonials" element={<Testimonials />} />
-				<Route path="/Contact" element={<Contact />} />
-				<Route path="/Footer" element={<Footer />} />
-				
-
-			</Routes>
-		</BrowserRouter>
-      
+        {/* Yahan basename add kiya hai */}
+        <BrowserRouter basename="/safiullah-portfolio">
+            <Routes>
+                <Route path="/" element={<Home />} />
+                <Route path="/Navbar" element={<Navbar />} />
+                <Route path="/Herosection" element={<Herosection />} />
+                <Route path="/About" element={<About />} />
+                <Route path="/Skills" element={<Skills />} />
+                <Route path="/Projects" element={<Projects />} />
+                <Route path="/Testimonials" element={<Testimonials />} />
+                <Route path="/Contact" element={<Contact />} />
+                <Route path="/Footer" element={<Footer />} />
+            </Routes>
+        </BrowserRouter>
     </div>
   )
 }
