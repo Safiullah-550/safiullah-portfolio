@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+/* Global Reset & Theme */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #0c0c0c;
+    color: #ffffff;
+    overflow-x: hidden;
+}
+
+
+
+/* Responsive Media Queries */
+@media (max-width: 991px) {
+    .header {
+        padding: 20px 5%;
+    }
+    section {
+        padding: 100px 5% 60px;
+    }
+    .home, .about {
+        flex-direction: column-reverse;
+        text-align: center;
+        justify-content: center;
+        gap: 40px;
+    }
+    .home-content, .about-content {
+        max-width: 100%;
+    }
+    .social-icons, .btn-box {
+        justify-content: center;
+    }
+    .about-info-grid {
+        text-align: left;
+    }
+}
+
+@media (max-width: 768px) {
+    .menu-icon {
+        display: block;
+    }
+    .navbar {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        background: #0c0c0c;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px 0;
+        border-bottom: 2px solid #ff7700;
+        clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+        transition: 0.4s ease;
+    }
+    .navbar.active {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+    }
+    .download-btn {
+        display: none;
+    }
+    .home-content h1 {
+        font-size: 40px;
+    }
+    .contact-form .input-box {
+        flex-direction: column;
+        gap: 0;
+    }
+}
