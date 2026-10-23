@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/safiullah-portfolio/static/css/main.6d667e8c.css",
+    "main.js": "/safiullah-portfolio/static/js/main.c4208de7.js",
+    "static/js/453.ccd8d115.chunk.js": "/safiullah-portfolio/static/js/453.ccd8d115.chunk.js",
+    "static/media/about.png": "/safiullah-portfolio/static/media/about.6320e212f7e4a5720d6f.png",
+    "static/media/safi.png": "/safiullah-portfolio/static/media/safi.6320e212f7e4a5720d6f.png",
+    "static/media/waqas.png": "/safiullah-portfolio/static/media/waqas.3cd0178d62f99f11cb2c.png",
+    "static/media/RaGbot.png": "/safiullah-portfolio/static/media/RaGbot.e7f6a57627581a1c31e9.png",
+    "static/media/portfliowebsite.png": "/safiullah-portfolio/static/media/portfliowebsite.b37beeb2f508fa3ecac8.png",
+    "static/media/golddigger.png": "/safiullah-portfolio/static/media/golddigger.f3724b5d926b53a0be0f.png",
+    "static/media/muhammad.png": "/safiullah-portfolio/static/media/muhammad.e088a986c4d1c8bad17c.png",
+    "index.html": "/safiullah-portfolio/index.html",
+    "main.6d667e8c.css.map": "/safiullah-portfolio/static/css/main.6d667e8c.css.map",
+    "main.c4208de7.js.map": "/safiullah-portfolio/static/js/main.c4208de7.js.map",
+    "453.ccd8d115.chunk.js.map": "/safiullah-portfolio/static/js/453.ccd8d115.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d667e8c.css",
+    "static/js/main.c4208de7.js"
+  ]
+}
