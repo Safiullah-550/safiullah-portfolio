@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/safiullah-portfolio/static/css/main.6d667e8c.css",
-    "main.js": "/safiullah-portfolio/static/js/main.28d7a0ca.js",
+    "main.js": "/safiullah-portfolio/static/js/main.5b698336.js",
     "static/js/453.ccd8d115.chunk.js": "/safiullah-portfolio/static/js/453.ccd8d115.chunk.js",
     "static/media/about.png": "/safiullah-portfolio/static/media/about.6320e212f7e4a5720d6f.png",
     "static/media/safi.png": "/safiullah-portfolio/static/media/safi.6320e212f7e4a5720d6f.png",
@@ -12,11 +12,11 @@
     "static/media/muhammad.png": "/safiullah-portfolio/static/media/muhammad.e088a986c4d1c8bad17c.png",
     "index.html": "/safiullah-portfolio/index.html",
     "main.6d667e8c.css.map": "/safiullah-portfolio/static/css/main.6d667e8c.css.map",
-    "main.28d7a0ca.js.map": "/safiullah-portfolio/static/js/main.28d7a0ca.js.map",
+    "main.5b698336.js.map": "/safiullah-portfolio/static/js/main.5b698336.js.map",
     "453.ccd8d115.chunk.js.map": "/safiullah-portfolio/static/js/453.ccd8d115.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d667e8c.css",
-    "static/js/main.28d7a0ca.js"
+    "static/js/main.5b698336.js"
   ]
 }
